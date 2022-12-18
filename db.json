@@ -1,0 +1,582 @@
+{
+    "mens": [
+        {
+            "id": 1,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/gyEKit98fH6VGSZ2jv1fFkSm",
+            "brand": "cultsportone",
+            "category": "Textured Performance Tshirt with Logo",
+            "price": 499,
+            "ogPrice": "₹ 999",
+            "offer": "50% Off"
+        },
+        {
+            "id": 2,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/zndZqfuadziLyLCYDNBzRd7R",
+            "brand": "CULTSPORT",
+            "category": "Abstract Rapid Workout T-shirt",
+            "price": 799,
+            "ogPrice": "₹ 1599",
+            "offer": "50% Off"
+        },
+        {
+            "id": 3,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/B8kGgpMP26tqFq2pXExQdrMK",
+            "brand": "CULTSPORT",
+            "category": "Vitals Print Training Tshirt",
+            "price": 799,
+            "ogPrice": "₹ 999",
+            "offer": "20% Off"
+        },
+        {
+            "id": 4,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/ez7BPTyZ5kE8Mye7o2YCA3B1",
+            "brand": "CULTSPORT",
+            "category": "Men's Dumbbell Training Tee",
+            "price": 719,
+            "ogPrice": "₹ 1199",
+            "offer": "40% Off"
+        },
+        {
+            "id": 5,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/GnrLKZ184SaGk9yzHAmXRH5q",
+            "brand": "CULTSPORT",
+            "category": "FAB Men's Essential Workout T-shirt",
+            "price": 719,
+            "ogPrice": "₹ 1199",
+            "offer": "40% Off"
+        },
+        {
+            "id": 6,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/21x2rCJwACH5uPcaiUCwahg8",
+            "brand": "CULTSPORT",
+            "category": "FAB Men's V-Neck T-shirt",
+            "price": 799,
+            "ogPrice": "₹ 999",
+            "offer": "20% Off"
+        },
+        {
+            "id": 7,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/MwfFiToe7gn7Ku2PeguNoUHo",
+            "brand": "CULTSPORT",
+            "category": "Pixelated Logo Print Tshirt",
+            "price": 549,
+            "ogPrice": "₹ 1099",
+            "offer": "50% Off"
+        },
+        {
+            "id": 8,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/3BvAwGdmm6TEp86zcaF3gkF5",
+            "brand": "CULTSPORT",
+            "category": "Dance Graphic Print Workout Tshirt",
+            "price": 879,
+            "ogPrice": "₹ 1599",
+            "offer": "45% Off"
+        },
+        {
+            "id": 9,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/KU5FQGGzFaehzsbvg4aGHurb",
+            "brand": "CULTSPORT",
+            "category": "Vitals Workout Tshirt",
+            "price": 769,
+            "ogPrice": "₹ 1399",
+            "offer": "45% Off"
+        },
+        {
+            "id": 10,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/T3bbRc1GfhGCfonspdogWTQp",
+            "brand": "CULTSPORT",
+            "category": "Striper Workout Tshirt",
+            "price": 779,
+            "ogPrice": "₹ 1299",
+            "offer": "40% Off"
+        },
+        {
+            "id": 11,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/AmGR711mZ3KinRHFpSJJspma",
+            "brand": "CULTSPORT",
+            "category": "Vitals Lifestyle Polo Tshirt",
+            "price": 899,
+            "ogPrice": "₹ 1799",
+            "offer": "50% Off"
+        },
+        {
+            "id": 12,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/GTsdULwpCrv1hFMNDgQ5vrsP",
+            "brand": "CULTSPORT",
+            "category": "Vitals Lifestyle Polo Tshirt",
+            "price": 449,
+            "ogPrice": "₹ 1799",
+            "offer": "75% Off"
+        },
+        {
+            "id": 13,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/m6hPQzL7ZeoxrDVho4zZwjRx",
+            "brand": "CULTSPORT",
+            "category": "Vitals Lifestyle T-Shirt",
+            "price": 824,
+            "ogPrice": "₹ 1499",
+            "offer": "45% Off"
+        },
+        {
+            "id": 14,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/WoJc353LB1KFvhMkU8cGmyj3",
+            "brand": "CULTSPORT",
+            "category": "Vitals Lifestyle T-Shirt",
+            "price": 699,
+            "ogPrice": "₹ 1399",
+            "offer": "50% Off"
+        },
+        {
+            "id": 15,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/nxGkSeNN25Wyk9DaCQytKfCf",
+            "brand": "CULTSPORT",
+            "category": "Vitals Lifestyle T-Shirt",
+            "price": 699,
+            "ogPrice": "₹ 1399",
+            "offer": "50% Off"
+        },
+        {
+            "id": 16,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/Ban4au2ihUVE29FdmGTTycgY",
+            "brand": "CULTSPORT",
+            "category": "Vitals Logo Running T-Shirt",
+            "price": 749,
+            "ogPrice": "₹ 1499",
+            "offer": "50% Off"
+        },
+        {
+            "id": 17,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/GDmAFq6WZLD9omKo6TuMGyZp",
+            "brand": "CULTSPORT",
+            "category": "Vitals Logo Running T-Shirt",
+            "price": 879,
+            "ogPrice": "₹ 1599",
+            "offer": "45% Off"
+        },
+        {
+            "id": 18,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/osRYuYYvwFy8BSYw9wQHnZ9A",
+            "brand": "CULTSPORT",
+            "category": "Vitals Solid Running T-Shirt",
+            "price": 824,
+            "ogPrice": "₹ 1499",
+            "offer": "45% Off"
+        },
+        {
+            "id": 19,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/kZJ7q5HoS6LCpCpgetFsu5Gs",
+            "brand": "CULTSPORT",
+            "category": "Vitals Graphic Running T-Shirt",
+            "price": 719,
+            "ogPrice": "₹ 1199",
+            "offer": "40% Off"
+        },
+        {
+            "id": 20,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/ttBM7DtfHNXGYSGzfB5ibCVB",
+            "brand": "CULTSPORT",
+            "category": "Vitals Textured Running T-Shirt",
+            "price": 1119,
+            "ogPrice": "₹ 1399",
+            "offer": "20% Off"
+        },
+        {
+            "id": 21,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/mGZLPw1assW1GPKtCYmxi7Zn",
+            "brand": "CULTSPORT",
+            "category": "Vitals Lifestyle Polo T-Shirt",
+            "price": 899,
+            "ogPrice": "₹ 1799",
+            "offer": "50% Off"
+        },
+        {
+            "id": 22,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/Yfxf1rcYjWiHBmPU7y61aHoa",
+            "brand": "CULTSPORT",
+            "category": "Vitals Lifestyle Polo T-Shirt",
+            "price": 989,
+            "ogPrice": "₹ 1799",
+            "offer": "45% Off"
+        },
+        {
+            "id": 23,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/fcXiJgkHhffEMWgNFfCrHsbX",
+            "brand": "CULTSPORT",
+            "category": "Vitals Lifestyle T-Shirt",
+            "price": 699,
+            "ogPrice": "₹ 1399",
+            "offer": "50% Off"
+        },
+        {
+            "id": 24,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/Zy4ZTBsRTLvcVxLThmXyUd3v",
+            "brand": "CULTSPORT",
+            "category": "Vitals Running T-Shirt",
+            "price": 699,
+            "ogPrice": "₹ 1399",
+            "offer": "50% Off"
+        },
+        {
+            "id": 25,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/xSqZe6eiLM6R2YmMmeYNk8wm",
+            "brand": "CULTSPORT",
+            "category": "Vitals Solid Running T-shirt",
+            "price": 714,
+            "ogPrice": "₹ 1299",
+            "offer": "45% Off"
+        },
+        {
+            "id": 26,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/MbwMLHyajasEhEuQSzoEoKWV",
+            "brand": "CULTSPORT",
+            "category": "Vitals Solid Running T-shirt",
+            "price": 1180,
+            "ogPrice": "₹ 2099",
+            "offer": "44% Off"
+        },
+        {
+            "id": 27,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/H3fKCRozgHxASEd2VqLnqc52",
+            "brand": "CULTSPORT",
+            "category": "Vitals Lifestyle Polo T-Shirt",
+            "price": 659,
+            "ogPrice": "₹ 2199",
+            "offer": "70% Off"
+        },
+        {
+            "id": 28,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/4pF7S8qji3nFu55XYC7HAEu7",
+            "brand": "CULTSPORT",
+            "category": "Vitals Running T-shirt",
+            "price": 714,
+            "ogPrice": "₹ 1299",
+            "offer": "45% Off"
+        },
+        {
+            "id": 29,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/ms9QkpYXJhNN8R77Ar85MyBh",
+            "brand": "CULTSPORT",
+            "category": "Vitals Running T-shirt",
+            "price": 714,
+            "ogPrice": "₹ 1299",
+            "offer": "45% Off"
+        },
+        {
+            "id": 30,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/J8A2evVVC8XTupi5iy4E67t3",
+            "brand": "CULTSPORT",
+            "category": "Isometric Logo Active T-shirt",
+            "price": "₹ 879",
+            "ogPrice": "₹ 1599",
+            "offer": "45% Off"
+        },
+        {
+            "id": 31,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/2LY5bDJPALHGU2s58ZyeMgKb",
+            "brand": "CULTSPORT",
+            "category": "Matrix Graphic Active T-shirt",
+            "price": 879,
+            "ogPrice": "₹ 1599",
+            "offer": "45% Off"
+        },
+        {
+            "id": 32,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/4cJb2Wu6mLzne6pg6nisgYJX",
+            "brand": "CULTSPORT",
+            "category": "Styrograph Logo Active T-shirt",
+            "price": 879,
+            "ogPrice": "₹ 1599",
+            "offer": "45% Off"
+        }
+    ],
+    "women": [
+        {
+            "id": 1,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/mU1dZAHqT6pjRn55ZWYvq6Mf",
+            "brand": "CULTSPORT",
+            "category": "FormFit High Impact Ivy Sports Bra",
+            "price": 1374,
+            "ogPrice": "₹ 2499",
+            "offer": "45% Off"
+        },
+        {
+            "id": 2,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/iK5BVWbaQ6KoEt1hwBUMuCdq",
+            "brand": "CULTSPORT",
+            "category": "Halftone Print Active Shorts",
+            "price": 879,
+            "ogPrice": "₹ 1599",
+            "offer": "45% Off"
+        },
+        {
+            "id": 3,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/t5VpnpDQrsKVPHRUYgAiTgFL",
+            "brand": "CULTSPORT",
+            "category": "AbsoluteFit Solid Workout Tights",
+            "price": 1374,
+            "ogPrice": "₹ 2499",
+            "offer": "45% Off"
+        },
+        {
+            "id": 4,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/htjEJCau5FfPzq6orYWXz1vb",
+            "brand": "CULTSPORT",
+            "category": "Halftone Logo Active Shorts",
+            "price": 879,
+            "ogPrice": "₹ 1599",
+            "offer": "45% Off"
+        },
+        {
+            "id": 5,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/anBREptvxVED3KMUSXcPpTen",
+            "brand": "CULTSPORT",
+            "category": "FormFit High Impact Ivy Sports Bra",
+            "price": 1374,
+            "ogPrice": "₹ 2499",
+            "offer": "45% Off"
+        },
+        {
+            "id": 6,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/xnVH5ZjMvv51Dxc7i8z7w3Gt",
+            "brand": "CULTSPORT",
+            "category": "AbsoluteFit Solid Workout Tights",
+            "price": 1374,
+            "ogPrice": "₹ 2499",
+            "offer": "45% Off"
+        },
+        {
+            "id": 7,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/q1RRjfnRcNUYgSzLD8wM8oEv",
+            "brand": "CULTSPORT",
+            "category": "Solid Workout Shorts",
+            "price": 769,
+            "ogPrice": "₹ 1399",
+            "offer": "45% Off"
+        },
+        {
+            "id": 8,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/QsooiXHKUycwsG88BZvho57Z",
+            "brand": "CULTSPORT",
+            "category": "Do It All Ombre Prism Tights",
+            "price": 2219,
+            "ogPrice": "₹ 3699",
+            "offer": "40% Off"
+        },
+        {
+            "id": 9,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/y9Ly6y2KSidVkL51S1ZeYv9Z",
+            "brand": "CULTSPORT",
+            "category": "LAYR Solid Sweatshirt",
+            "price": 1814,
+            "ogPrice": "₹ 3299",
+            "offer": "45% Off"
+        },
+        {
+            "id": 10,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/jsnGp3tbniZqKagkt9g9tgRz",
+            "brand": "CULTSPORT",
+            "category": "FormFit Training Sports Bra",
+            "price": 524,
+            "ogPrice": "₹ 2099",
+            "offer": "75% Off"
+        },
+        {
+            "id": 11,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/pzqQRku8Axetp7P65ZuKHoAe",
+            "brand": "CULTSPORT",
+            "category": "Printed Sports Bra",
+            "price": 1299,
+            "ogPrice": "₹ 2599",
+            "offer": "50% Off"
+        },
+        {
+            "id": 12,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/Va5gn1P8ZPCumwMpkfKawCwN",
+            "brand": "CULTSPORT",
+            "category": "Graphic Print Workout Tshirt",
+            "price": 959,
+            "ogPrice": "₹ 1599",
+            "offer": "40% Off"
+        },
+        {
+            "id": 13,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/mcFkm6K2JzvBewYumhjHk3Se",
+            "brand": "cultsportone",
+            "category": "Solid Active Tshirt with Logo",
+            "price": 449,
+            "ogPrice": "₹ 899",
+            "offer": "50% Off"
+        },
+        {
+            "id": 14,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/PXDhgjzLhYF6PWDZ2mshBAvR",
+            "brand": "CULTSPORT",
+            "category": "FormFit Cleo Mesh Sports Bra",
+            "price": 1049,
+            "ogPrice": "₹ 1999",
+            "offer": "48% Off"
+        },
+        {
+            "id": 15,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/HPTqZ6SsdAKyacdNithiFoDV",
+            "brand": "CULTSPORT",
+            "category": "AbsoluteFit Power Workout Tights",
+            "price": 1249,
+            "ogPrice": "₹ 2499",
+            "offer": "50% Off"
+        },
+        {
+            "id": 16,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/2qV69FepWJR8F8WPwUxdfYP9",
+            "brand": "CULTSPORT",
+            "category": "AbsoluteFit Power Workout Tights",
+            "price": 1249,
+            "ogPrice": "₹ 2499",
+            "offer": "50% Off"
+        },
+        {
+            "id": 17,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/NAxuzFjKE6Wm6bnzorbGBW6D",
+            "brand": "CULTSPORT",
+            "category": "Ombre Logo Active Tank Top",
+            "price": 699,
+            "ogPrice": "₹ 1399",
+            "offer": "50% Off"
+        },
+        {
+            "id": 18,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/edNFCVBd1E1kUaT515q1HHTN",
+            "brand": "CULTSPORT",
+            "category": "Geometric Print Active Top",
+            "price": 989,
+            "ogPrice": "₹ 1799",
+            "offer": "45% Off"
+        },
+        {
+            "id": 19,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/afRewYSwRHPGtbj2QhCDNiAM",
+            "brand": "CULTSPORT",
+            "category": "Geometric Print Active Top",
+            "price": 989,
+            "ogPrice": "₹ 1799",
+            "offer": "45% Off"
+        },
+        {
+            "id": 20,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/WSsGSWrX7bwt4rN69xABcYxF",
+            "brand": "CULTSPORT",
+            "category": "Colourblock Active Crop Top",
+            "price": 714,
+            "ogPrice": "₹ 1299",
+            "offer": "45% Off"
+        },
+        {
+            "id": 21,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/V91JWMme3PbimZYhXyxQGupz",
+            "brand": "CULTSPORT",
+            "category": "Halftone Print Active Shorts",
+            "price": 879,
+            "ogPrice": "₹ 1599",
+            "offer": "45% Off"
+        },
+        {
+            "id": 22,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/BwqUQLdV4WxFghvERDJXUxwx",
+            "brand": "CULTSPORT",
+            "category": "Do It All Ombre Streaks Tights",
+            "price": 1999,
+            "ogPrice": "₹ 3699",
+            "offer": "46% Off"
+        },
+        {
+            "id": 23,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/9rqPdR3TTcyTuraQSVWHxGBf",
+            "brand": "CULTSPORT",
+            "category": "Do It All Monotone Prism Tights",
+            "price": 1979,
+            "ogPrice": "₹ 3599",
+            "offer": "45% Off"
+        },
+        {
+            "id": 24,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/RpJ4ZJGs423qFNmwzwRFVLdL",
+            "brand": "CULTSPORT",
+            "category": "Do It All Teal Prism Tights",
+            "price": 1799,
+            "ogPrice": "₹ 3599",
+            "offer": "50% Off"
+        },
+        {
+            "id": 25,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/xwq7gp29yXPqyhcujh2ijm4P",
+            "brand": "cultsportone",
+            "category": "Solid Shorts with Graphic Print",
+            "price": 649,
+            "ogPrice": "₹ 1299",
+            "offer": "50% Off"
+        },
+        {
+            "id": 26,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/oDMvtbb2jkErJeif9XUib8xj",
+            "brand": "cultsportone",
+            "category": "Highwaist Solid Performance Tights",
+            "price": 849,
+            "ogPrice": "₹ 1699",
+            "offer": "50% Off"
+        },
+        {
+            "id": 27,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/vn6wmHuKoAPiRCgomTdUKX6u",
+            "brand": "cultsportone",
+            "category": "Highwaist Solid Active Tights",
+            "price": 849,
+            "ogPrice": "₹ 1699",
+            "offer": "50% Off"
+        },
+        {
+            "id": 28,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/AEdcHbFhRYed5tyntz7MD42U",
+            "brand": "cultsportone",
+            "category": "Highwaist Solid Workout Tights",
+            "price": 849,
+            "ogPrice": "₹ 1699",
+            "offer": "50% Off"
+        },
+        {
+            "id": 29,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/qJmA5Hn7AovNiArNr57w3RzJ",
+            "brand": "cultsportone",
+            "category": "Textured Active Tshirt with Logo",
+            "price": 499,
+            "ogPrice": "₹ 999",
+            "offer": "50% Off"
+        },
+        {
+            "id": 30,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/jx3xcNSDKQXeKZqMQzx5j5h7",
+            "brand": "cultsportone",
+            "category": "Graphic Play Performance Tshirt",
+            "price": 499,
+            "ogPrice": "₹ 999",
+            "offer": "50% Off"
+        },
+        {
+            "id": 31,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/83NucMdZgbxEhefHpajmZtFp",
+            "brand": "cultsportone",
+            "category": "Logo Play Chest Print Active Tshirt",
+            "price": 499,
+            "ogPrice": "₹ 999",
+            "offer": "50% Off"
+        },
+        {
+            "id": 32,
+            "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/NaBtVTdXH1Rmjhids8UL6QYP",
+            "brand": "cultsportone",
+            "category": "Performance Tshirt with Minimal Graphic",
+            "price": 499,
+            "ogPrice": "₹ 999",
+            "offer": "50% Off"
+        }
+    ]
+}
